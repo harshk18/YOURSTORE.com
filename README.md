@@ -11,5 +11,5 @@ footer
 
 Each section is further divided into more sections as needed
 
-The CSS file has been attached with all the required comments for each section
+The CSS file has been attached with all the required comments for each section.
 On the homepage each button has its operation and move accordingly on the homepage after clicking the button.
