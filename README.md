@@ -2,12 +2,12 @@
 This is a clothes shopping website's homepage built using HTML and CSS
 
 In the HTML file the body is divided into 6 sections namely-
-navbar
-home
-shop
-customers
-contact 
-footer
+navbar,
+home,
+shop,
+customers,
+contact, 
+footer,
 
 Each section is further divided into more sections as needed
 
